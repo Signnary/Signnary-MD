@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignnaryCapstone</string>
+    <string name="result">hasil</string>
+    <string name="sentence">kalimat</string>
+    <string name="word">kata</string>
+    <string name="floatingactionbutton">ini tombol kamera</string>
+    <string name="gallery">Galeri\n</string>
+    <string name="analyze">Artikan\n</string>
+</resources>
